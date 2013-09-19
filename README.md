@@ -3,7 +3,7 @@
 ### Caution
 
 * require Scala 2.11.0-M3 or higher <http://www.scala-lang.org/downloads>
-* current version sbt(0.12.3 or 0.13.0-M2) does not support java8
+* current version sbt(0.12.4 or 0.13.0) [does not support java8](https://github.com/sbt/sbt/issues/842)
 
 ### Example
 
