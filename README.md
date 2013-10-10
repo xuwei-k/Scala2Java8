@@ -35,7 +35,7 @@ res2: Array[Int] = Array(0, 2, 4, 6, 8, 10, 12, 14, 16, 18)
 ```
 
 ### License
-MIT license <http://opensource.org/licenses/MIT>
+public domain
 
 ### TODO
 * implicit priority
